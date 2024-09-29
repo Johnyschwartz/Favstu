@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.head{
+    background-color: #EB7071;
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+}
+button{
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    outline: none;
+    align-items: center;
+}
+.map-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.map-div h1{
+    font-size: larger;
+    font-weight: bold;
+}
+.Fav{
+    padding: 3%;
+    background-color:#EB7071;
+    text-align: center;
+}
+.Fav h1{
+    font-size: larger;
+    font-weight: bold;
+}

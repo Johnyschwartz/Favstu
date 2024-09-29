@@ -1,0 +1,30 @@
+nav {
+    background-color: #ff7f7f;
+    padding: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: purple;
+    font-size: 18px;
+    margin: 0 15px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  .fav-div{
+    margin-left: 10px;
+  }
+  .div{
+    padding: 2%;
+  }
+  .li{
+    padding: 2%;
+  }
+  
